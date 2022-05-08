@@ -2,7 +2,7 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 
 // TODO: 修改默认展示的tab
-const activeTabName = 'demo03';
+const activeTabName = 'demo05';
 
 Vue.use(VueRouter)
 

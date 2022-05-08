@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="title">13种内置节点和3种内置边</div>
+    <div class="title">14种内置节点和3种内置边</div>
 
     <div id="container"></div>
   </div>
@@ -261,6 +261,10 @@ const data = {
       source: "node12",
       target: "node13",
     },
+    {
+      source: "node13",
+      target: "node14",
+    }
   ],
 };
 
